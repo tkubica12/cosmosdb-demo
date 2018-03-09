@@ -1,0 +1,148 @@
+[
+    {
+        "zviratko": "pes",
+        "klasifikace": {
+            "trida": "savci",
+            "rad": "selmy"
+        },
+        "prumerne_doziti": 12,
+        "hodnoceni": [
+            {
+                "jmeno": "Anicka",
+                "hvezdicky": 5
+            },
+            {
+                "jmeno": "Tomas",
+                "hvezdicky": 3
+            },
+            {
+                "jmeno": "Marek",
+                "hvezdicky": 4
+            }
+        ]
+    },
+    {
+        "zviratko": "kocka",
+        "klasifikace": {
+            "trida": "savci",
+            "rad": "selmy"
+        },
+        "prumerne_doziti": 10,
+        "hodnoceni": [
+            {
+                "jmeno": "Anicka",
+                "hvezdicky": 4
+            },
+            {
+                "jmeno": "Karel",
+                "hvezdicky": 4
+            },
+            {
+                "jmeno": "Martin",
+                "hvezdicky": 2
+            }
+        ]
+    },
+    {
+        "zviratko": "krecek",
+        "klasifikace": {
+            "trida": "savci",
+            "rad": "hlodavci"
+        },
+        "prumerne_doziti": 2,
+        "hodnoceni": [
+            {
+                "jmeno": "Anicka",
+                "hvezdicky": 4
+            }
+        ]
+    },
+    {
+        "zviratko": "morce",
+        "klasifikace": {
+            "trida": "savci",
+            "rad": "hlodavci"
+        },
+        "prumerne_doziti": 4,
+        "hodnoceni": [
+            {
+                "jmeno": "Petr",
+                "hvezdicky": 3
+            },
+            {
+                "jmeno": "Tomas",
+                "hvezdicky": 4
+            }
+        ]
+    },
+    {
+        "zviratko": "kakadu",
+        "klasifikace": {
+            "trida": "ptaci",
+            "rad": "papousci"
+        },
+        "prumerne_doziti": 30,
+        "hodnoceni": [
+            {
+                "jmeno": "Lenka",
+                "hvezdicky": 2
+            },
+            {
+                "jmeno": "Marta",
+                "hvezdicky": 3
+            },
+            {
+                "jmeno": "Petra",
+                "hvezdicky": 5
+            }
+        ]
+    },
+    {
+        "zviratko": "andulka",
+        "klasifikace": {
+            "trida": "ptaci",
+            "rad": "papousci"
+        },
+        "prumerne_doziti": 10,
+        "hodnoceni": [
+            {
+                "jmeno": "Lenka",
+                "hvezdicky": 2
+            },
+            {
+                "jmeno": "Tomas",
+                "hvezdicky": 4
+            },
+            {
+                "jmeno": "Petra",
+                "hvezdicky": 3
+            }
+        ]
+    },
+    {
+        "zviratko": "zelva",
+        "klasifikace": {
+            "trida": "plazy",
+            "rad": "zelvy"
+        },
+        "prumerne_doziti": 100,
+        "hodnoceni": [
+            {
+                "jmeno": "Lenka",
+                "hvezdicky": 5
+            },
+            {
+                "jmeno": "Tomas",
+                "hvezdicky": 4
+            },
+            {
+                "jmeno": "Karel",
+                "hvezdicky": 5
+            },
+            {
+                "jmeno": "Petra",
+                "hvezdicky": 4
+            }
+        ]
+    }
+]
